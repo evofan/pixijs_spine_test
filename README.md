@@ -1,7 +1,7 @@
 # PixiJS上でSpineファイルを再生するテスト
 参照元は下記
 
-**PixiGAFPlayer**  
+**pixi-spine**  
 [https://github.com/pixijs/pixi-spine](https://github.com/pixijs/pixi-spine)
 
 **Spine (ver. 3.7.94)**  
