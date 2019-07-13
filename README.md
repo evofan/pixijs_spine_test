@@ -1,11 +1,13 @@
-# PixiJS上でSpineファイルを再生するテスト
-参照元は下記
+# Test to play Spine animation on PixiJS.  
+
+**DEMO**  
+[https://evofan.github.io/pixijs_spine_test/](https://evofan.github.io/pixijs_spine_test/)  
+
+reference  
 
 **pixi-spine**  
 [https://github.com/pixijs/pixi-spine](https://github.com/pixijs/pixi-spine)
 
-**Spine (ver. 3.7.94)**  
-[http://ja.esotericsoftware.com/](http://ja.esotericsoftware.com/)
-
-**DEMO**  
-[https://evofan.github.io/pixijs_spine_test/](https://evofan.github.io/pixijs_spine_test/)
+**Spine 2D animation for games**  
+[http://esotericsoftware.com/](http://esotericsoftware.com/)  
+use ver. 3.7.94
